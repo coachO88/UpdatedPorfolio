@@ -1,7 +1,7 @@
 body {
 	background-image: url('../assets/images/background.png');
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-	color: #777777;
+	color: black;
 }
 
 nav.navbar {
@@ -16,7 +16,7 @@ div.navbar-nav {
 }
 
 .logo {
-	background-color: rgb(26, 26, 26);
+	background-color: navy;
 	color: #fff;
 	font-size: 25px;
 	height: 100%;
@@ -31,7 +31,7 @@ div.navbar-nav {
 }
 
 h1.title {
-	color: rgb(221, 221, 221);
+	color: navy;
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	font-size: 20pt;
 	font-weight: bold;
@@ -54,7 +54,7 @@ hr.line {
 }
 
 .portfolioContent {
-	background-color: rgb(26, 26, 26);
+	background-color: lightgray;
 	margin-top: 75px;
 	margin-bottom: 75px;
 	border-radius: 10px;
@@ -64,8 +64,8 @@ hr.line {
 }
 
 footer {
-	border-top: 8px solid rgb(26, 26, 26);
-	background-color: #666666;
+	border-top: 8px solid darkgray;
+	background-color:navy;
 	text-align: center;
 	padding-top: 25px;
 	color: rgb(172, 172, 172);
@@ -150,7 +150,7 @@ button[type=submit] {
 	padding-bottom: 5px;
 	padding-left: 15px;
 	padding-right: 15px;
-	background-color: #4aaaa5;
+	background-color:navy;
 	color: #fff;
 	border: 0;
 	border-radius: 0px;
